@@ -1,6 +1,6 @@
 {
   "name": "pomegranate-chat-ng2-md-fire",
-  "description": "subscribtion form - splash page - chat client for pomegranateUK built with angular 2, material design and firebase",
+  "description": "pomegranate-chat-ng2-md-fire - built with angular 2, material design foundation6 for flex and firebase - splash page - subscribtion form - chat client",
   "version": "0.0.0",
   "author": "rafszul <rafszul@gmail.com> (http://rafszul.projekt-kreatywa.com/)",
   "license": "MIT",
@@ -15,8 +15,7 @@
     "angular 2",
     "material design",
     "firebase",
-    "github page",
-    "rafszul"
+    "foundation6"
   ],
   "angular-cli": {},
   "scripts": {
